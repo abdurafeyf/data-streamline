@@ -1,0 +1,9 @@
+2024-10-31 14:52:34,967 - INFO - Pinged your deployment. Successfully connected to MongoDB!
+2024-10-31 14:53:07,335 - INFO - Fetched 295 documents from the collection.
+2024-10-31 14:53:10,798 - INFO - Data saved to saudi_stocks.csv successfully!
+2024-10-31 14:54:16,607 - INFO - Pinged your deployment. Successfully connected to MongoDB!
+2024-10-31 14:54:20,040 - INFO - Fetched 36 documents from the collection.
+2024-10-31 14:54:20,326 - INFO - Data saved to saudi_index.csv successfully!
+2024-10-31 14:54:40,300 - INFO - Pinged your deployment. Successfully connected to MongoDB!
+2024-10-31 14:54:42,565 - INFO - Fetched 10 documents from the collection.
+2024-10-31 14:54:42,631 - INFO - Data saved to saudi_etfs.csv successfully!

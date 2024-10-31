@@ -74,7 +74,7 @@ st.dataframe(
 )
 
 # Display time series line charts for each metric with altair for better control over x-axis
-st.subheader("Time Series Charts")
+st.subheader("Time Series Charts `Alistithmar Capital Freestyle Saudi Eqy`")
 for i, metric in enumerate(data['Metric']):
     st.write(f"**{metric} Time Series**")
     if data["Time Series"][i]:  # Check if data is available
