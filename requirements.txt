@@ -1,5 +1,2 @@
 streamlit
-matplotlib
-pandas
-json
-datetime
+matplotlib==3.8.2
