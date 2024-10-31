@@ -1,0 +1,2197 @@
+[
+    {
+        "dbgtime": "116",
+        "Id": "F00001JS0R",
+        "InceptionDate": "2021-11-15T00:00:00",
+        "PerformanceInceptionDate": "2021-11-15T00:00:00",
+        "LegalName": "Alistithmar Capital Freestyle Saudi Eqy",
+        "Domicile": "SAU",
+        "Currency": {
+            "Id": "SAR"
+        },
+        "CategoryBroadAssetClass": {
+            "Id": "$BCG$EQUTY",
+            "Name": "Equity"
+        },
+        "PurchaseDetails": [
+            {
+                "Currency": {
+                    "Id": "SAR"
+                },
+                "InitialInvestment": {
+                    "Unit": 1,
+                    "Value": 5000.0
+                },
+                "SubsequentInvestment": {
+                    "Unit": 1,
+                    "Value": 1000.0
+                },
+                "FrontLoad": {
+                    "Unit": 2,
+                    "Value": 1.0
+                }
+            }
+        ],
+        "LastPrice": {
+            "Date": "2024-10-22T00:00:00",
+            "Value": 15.59873,
+            "Currency": {
+                "Id": "SAR"
+            }
+        },
+        "InvestmentStrategy": "Achieving a long-term capital increase for unitholders through concentrated investment compatible with Islamic Sharia standards in stocks listed on the Saudi stock markets.",
+        "FrontLoadFee": [
+            {
+                "Currency": "SAR",
+                "Value": 1.0
+            }
+        ],
+        "ProviderCompany": {
+            "Name": "Alistithmar Capital",
+            "AddressLine1": "P.O. Box 6888",
+            "City": "Riyadh",
+            "Country": "Saudi Arabia",
+            "PostalCode": "11452",
+            "Homepage": "http://www.alistithmarcapital.com"
+        },
+        "Documents": [
+            {
+                "DocumentId": "496982546",
+                "EncodedDocumentId": "43dcbb88a8498f5e8a9fede8d16afa1f",
+                "EffectiveDate": "2023-09-18T00:00:00",
+                "FilingDate": "2024-02-27T00:00:00",
+                "Format": "PDF",
+                "DocumentTypes": [
+                    "1"
+                ],
+                "Languages": [
+                    "0L00000020"
+                ],
+                "DocumentTypeAttributes": [
+                    "16"
+                ],
+                "Markets": [
+                    "WWE"
+                ]
+            }
+        ],
+        "TrailingPerformance": [
+            {
+                "CurrencyId": "SAR",
+                "Date": "2024-10-22T00:00:00",
+                "Type": "DayEnd",
+                "ReturnType": "Nav",
+                "Return": [
+                    {
+                        "Value": 15.598733,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "ClosePrice"
+                    },
+                    {
+                        "Value": 10.344982,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M0"
+                    },
+                    {
+                        "Value": -1.782614,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M1"
+                    },
+                    {
+                        "Value": -2.428825,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M3"
+                    },
+                    {
+                        "Value": -1.336449,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M6"
+                    },
+                    {
+                        "Value": 31.001736,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M12"
+                    },
+                    {
+                        "Value": 16.356051,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M255"
+                    }
+                ]
+            },
+            {
+                "CurrencyId": "SAR",
+                "Date": "2024-10-22T00:00:00",
+                "Type": "DayEnd",
+                "ReturnType": "GbPostTax",
+                "Return": [
+                    {
+                        "Value": 15.598733,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "ClosePrice"
+                    },
+                    {
+                        "Value": 10.344982,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M0"
+                    },
+                    {
+                        "Value": -1.782614,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M1"
+                    },
+                    {
+                        "Value": -2.428825,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M3"
+                    },
+                    {
+                        "Value": -1.336449,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M6"
+                    },
+                    {
+                        "Value": 31.001736,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M12"
+                    },
+                    {
+                        "Value": 16.356051,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M255"
+                    }
+                ]
+            },
+            {
+                "CurrencyId": "SAR",
+                "Date": "2024-10-22T00:00:00",
+                "Type": "DayEnd",
+                "ReturnType": "ItPostTax",
+                "Return": [
+                    {
+                        "Value": 15.598733,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "ClosePrice"
+                    },
+                    {
+                        "Value": 10.344982,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M0"
+                    },
+                    {
+                        "Value": -1.782614,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M1"
+                    },
+                    {
+                        "Value": -2.428825,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M3"
+                    },
+                    {
+                        "Value": -1.336449,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M6"
+                    },
+                    {
+                        "Value": 31.001736,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M12"
+                    },
+                    {
+                        "Value": 16.356051,
+                        "Annualized": true,
+                        "Date": "2024-10-22T00:00:00",
+                        "TimePeriod": "M255"
+                    }
+                ]
+            }
+        ],
+        "RiskStatistics": [
+            {
+                "CurrencyId": "BAS",
+                "CurrencyOption": "DISPLAYCURRENCY",
+                "Date": "2024-09-30T00:00:00",
+                "Type": "MonthEnd",
+                "ReturnType": "Nav",
+                "benchmarkType": "PrimaryBenchmarkId",
+                "InformationRatios": [
+                    {
+                        "Value": 3.92163,
+                        "Frequency": "M",
+                        "TimePeriod": "M12"
+                    }
+                ],
+                "TrackingErrors": [
+                    {
+                        "Value": 4.63231,
+                        "Frequency": "M",
+                        "TimePeriod": "M12"
+                    }
+                ],
+                "StandardDeviations": [
+                    {
+                        "Value": 17.08,
+                        "Frequency": "M",
+                        "TimePeriod": "M12"
+                    }
+                ]
+            },
+            {
+                "CurrencyId": "BAS",
+                "CurrencyOption": "DISPLAYCURRENCY",
+                "Date": "2024-09-30T00:00:00",
+                "Type": "MonthEnd",
+                "ReturnType": "GbPostTax",
+                "benchmarkType": "PrimaryBenchmarkId",
+                "InformationRatios": [
+                    {
+                        "Value": 3.92163,
+                        "Frequency": "M",
+                        "TimePeriod": "M12"
+                    }
+                ],
+                "TrackingErrors": [
+                    {
+                        "Value": 4.63231,
+                        "Frequency": "M",
+                        "TimePeriod": "M12"
+                    }
+                ],
+                "StandardDeviations": [
+                    {
+                        "Value": 17.08,
+                        "Frequency": "M",
+                        "TimePeriod": "M12"
+                    }
+                ]
+            },
+            {
+                "CurrencyId": "BAS",
+                "CurrencyOption": "DISPLAYCURRENCY",
+                "Date": "2024-09-30T00:00:00",
+                "Type": "MonthEnd",
+                "ReturnType": "ItPostTax",
+                "benchmarkType": "PrimaryBenchmarkId",
+                "InformationRatios": [
+                    {
+                        "Value": 3.92163,
+                        "Frequency": "M",
+                        "TimePeriod": "M12"
+                    }
+                ],
+                "TrackingErrors": [
+                    {
+                        "Value": 4.63231,
+                        "Frequency": "M",
+                        "TimePeriod": "M12"
+                    }
+                ],
+                "StandardDeviations": [
+                    {
+                        "Value": 17.08,
+                        "Frequency": "M",
+                        "TimePeriod": "M12"
+                    }
+                ]
+            }
+        ],
+        "HistoricalPerformanceSeries": [
+            {
+                "CurrencyId": "SAR",
+                "StartDate": "2014-01-01T00:00:00",
+                "Frequency": "Q",
+                "TimePeriod": "M12",
+                "ReturnType": "Nav",
+                "Return": [
+                    {
+                        "Value": 28.86382,
+                        "Date": "2024-09-30T00:00:00",
+                        "TimePeriod": "M12"
+                    },
+                    {
+                        "Value": 13.70356,
+                        "Date": "2023-09-30T00:00:00",
+                        "TimePeriod": "M12"
+                    },
+                    {
+                        "Date": "2022-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2021-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2020-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2019-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2018-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2017-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2016-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2015-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2014-09-30T00:00:00"
+                    }
+                ]
+            },
+            {
+                "CurrencyId": "SAR",
+                "StartDate": "2014-01-01T00:00:00",
+                "Frequency": "Y",
+                "TimePeriod": "M12",
+                "ReturnType": "Nav",
+                "Return": [
+                    {
+                        "Value": 41.61033,
+                        "Date": "2023-12-31T00:00:00",
+                        "TimePeriod": "M12"
+                    },
+                    {
+                        "Value": 2.0557,
+                        "Date": "2022-12-31T00:00:00",
+                        "TimePeriod": "M12"
+                    },
+                    {
+                        "Date": "2021-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2020-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2019-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2018-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2017-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2016-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2015-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2014-12-31T00:00:00"
+                    }
+                ]
+            },
+            {
+                "CurrencyId": "SAR",
+                "StartDate": "2014-01-01T00:00:00",
+                "Frequency": "Q",
+                "TimePeriod": "M12",
+                "ReturnType": "GbPostTax",
+                "Return": [
+                    {
+                        "Value": 28.86382,
+                        "Date": "2024-09-30T00:00:00",
+                        "TimePeriod": "M12"
+                    },
+                    {
+                        "Value": 13.70356,
+                        "Date": "2023-09-30T00:00:00",
+                        "TimePeriod": "M12"
+                    },
+                    {
+                        "Date": "2022-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2021-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2020-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2019-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2018-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2017-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2016-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2015-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2014-09-30T00:00:00"
+                    }
+                ]
+            },
+            {
+                "CurrencyId": "SAR",
+                "StartDate": "2014-01-01T00:00:00",
+                "Frequency": "Y",
+                "TimePeriod": "M12",
+                "ReturnType": "GbPostTax",
+                "Return": [
+                    {
+                        "Value": 41.61033,
+                        "Date": "2023-12-31T00:00:00",
+                        "TimePeriod": "M12"
+                    },
+                    {
+                        "Value": 2.0557,
+                        "Date": "2022-12-31T00:00:00",
+                        "TimePeriod": "M12"
+                    },
+                    {
+                        "Date": "2021-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2020-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2019-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2018-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2017-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2016-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2015-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2014-12-31T00:00:00"
+                    }
+                ]
+            },
+            {
+                "CurrencyId": "SAR",
+                "StartDate": "2014-01-01T00:00:00",
+                "Frequency": "Q",
+                "TimePeriod": "M12",
+                "ReturnType": "ItPostTax",
+                "Return": [
+                    {
+                        "Value": 28.86382,
+                        "Date": "2024-09-30T00:00:00",
+                        "TimePeriod": "M12"
+                    },
+                    {
+                        "Value": 13.70356,
+                        "Date": "2023-09-30T00:00:00",
+                        "TimePeriod": "M12"
+                    },
+                    {
+                        "Date": "2022-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2021-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2020-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2019-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2018-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2017-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2016-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2015-09-30T00:00:00"
+                    },
+                    {
+                        "Date": "2014-09-30T00:00:00"
+                    }
+                ]
+            },
+            {
+                "CurrencyId": "SAR",
+                "StartDate": "2014-01-01T00:00:00",
+                "Frequency": "Y",
+                "TimePeriod": "M12",
+                "ReturnType": "ItPostTax",
+                "Return": [
+                    {
+                        "Value": 41.61033,
+                        "Date": "2023-12-31T00:00:00",
+                        "TimePeriod": "M12"
+                    },
+                    {
+                        "Value": 2.0557,
+                        "Date": "2022-12-31T00:00:00",
+                        "TimePeriod": "M12"
+                    },
+                    {
+                        "Date": "2021-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2020-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2019-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2018-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2017-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2016-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2015-12-31T00:00:00"
+                    },
+                    {
+                        "Date": "2014-12-31T00:00:00"
+                    }
+                ]
+            }
+        ],
+        "Benchmark": [
+            {
+                "Id": "MECA000018",
+                "GlobalAssetClassId": "$BCG$EQUTY",
+                "Type": "Category",
+                "Name": "Saudi Islamic Equity",
+                "HistoricalPerformanceSeries": [
+                    {
+                        "CurrencyId": "SAR",
+                        "StartDate": "2014-01-01T00:00:00",
+                        "Frequency": "Q",
+                        "TimePeriod": "M12",
+                        "ReturnType": "Nav",
+                        "Return": [
+                            {
+                                "Date": "2024-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2023-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2022-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2021-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2020-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2019-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2018-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2017-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2016-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2015-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2014-09-30T00:00:00"
+                            }
+                        ]
+                    },
+                    {
+                        "CurrencyId": "SAR",
+                        "StartDate": "2014-01-01T00:00:00",
+                        "Frequency": "Y",
+                        "TimePeriod": "M12",
+                        "ReturnType": "Nav",
+                        "Return": [
+                            {
+                                "Date": "2023-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2022-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2021-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2020-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2019-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2018-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2017-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2016-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2015-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2014-12-31T00:00:00"
+                            }
+                        ]
+                    },
+                    {
+                        "CurrencyId": "SAR",
+                        "StartDate": "2014-01-01T00:00:00",
+                        "Frequency": "Q",
+                        "TimePeriod": "M12",
+                        "ReturnType": "GbPostTax",
+                        "Return": [
+                            {
+                                "Date": "2024-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2023-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2022-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2021-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2020-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2019-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2018-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2017-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2016-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2015-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2014-09-30T00:00:00"
+                            }
+                        ]
+                    },
+                    {
+                        "CurrencyId": "SAR",
+                        "StartDate": "2014-01-01T00:00:00",
+                        "Frequency": "Y",
+                        "TimePeriod": "M12",
+                        "ReturnType": "GbPostTax",
+                        "Return": [
+                            {
+                                "Date": "2023-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2022-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2021-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2020-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2019-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2018-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2017-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2016-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2015-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2014-12-31T00:00:00"
+                            }
+                        ]
+                    },
+                    {
+                        "CurrencyId": "SAR",
+                        "StartDate": "2014-01-01T00:00:00",
+                        "Frequency": "Q",
+                        "TimePeriod": "M12",
+                        "ReturnType": "ItPostTax",
+                        "Return": [
+                            {
+                                "Date": "2024-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2023-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2022-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2021-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2020-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2019-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2018-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2017-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2016-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2015-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2014-09-30T00:00:00"
+                            }
+                        ]
+                    },
+                    {
+                        "CurrencyId": "SAR",
+                        "StartDate": "2014-01-01T00:00:00",
+                        "Frequency": "Y",
+                        "TimePeriod": "M12",
+                        "ReturnType": "ItPostTax",
+                        "Return": [
+                            {
+                                "Date": "2023-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2022-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2021-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2020-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2019-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2018-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2017-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2016-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2015-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2014-12-31T00:00:00"
+                            }
+                        ]
+                    }
+                ],
+                "Portfolios": [
+                    {
+                        "Date": "2022-07-31T00:00:00",
+                        "SuppressionExpiration": "2022-07-31T00:00:00",
+                        "ReleaseStatisticsDate": "2022-07-31T00:00:00",
+                        "ReleaseTopHoldingDate": "2022-07-31T00:00:00",
+                        "TopNcount": 0,
+                        "CurrencyId": "SAR",
+                        "Id": 1410508,
+                        "AssetAllocations": [
+                            {
+                                "Type": "MorningstarEUR3",
+                                "SalePosition": "L",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 99.85076,
+                                        "Type": "1"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "2"
+                                    },
+                                    {
+                                        "Value": 0.14924,
+                                        "Type": "3"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "4"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "99"
+                                    }
+                                ]
+                            },
+                            {
+                                "Type": "MorningstarEUR3",
+                                "SalePosition": "S",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "1"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "2"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "3"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "4"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "99"
+                                    }
+                                ]
+                            },
+                            {
+                                "Type": "MorningstarEUR3",
+                                "SalePosition": "N",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 99.85076,
+                                        "Type": "1"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "2"
+                                    },
+                                    {
+                                        "Value": 0.14924,
+                                        "Type": "3"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "4"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "99"
+                                    }
+                                ]
+                            }
+                        ],
+                        "RegionalExposure": [
+                            {
+                                "NotClassified": 0.14924,
+                                "SalePosition": "L",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "1"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "2"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "3"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "4"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "5"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "6"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "7"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "8"
+                                    },
+                                    {
+                                        "Value": 100.0,
+                                        "Type": "9"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "10"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "11"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "12"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "13"
+                                    },
+                                    {
+                                        "Value": 100.0,
+                                        "Type": "14"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "15"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "16"
+                                    }
+                                ]
+                            },
+                            {
+                                "NotClassified": 100.0,
+                                "SalePosition": "S",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "1"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "2"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "3"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "4"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "5"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "6"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "7"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "8"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "9"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "10"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "11"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "12"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "13"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "14"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "15"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "16"
+                                    }
+                                ]
+                            },
+                            {
+                                "NotClassified": 0.14924,
+                                "SalePosition": "N",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "1"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "2"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "3"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "4"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "5"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "6"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "7"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "8"
+                                    },
+                                    {
+                                        "Value": 100.0,
+                                        "Type": "9"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "10"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "11"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "12"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "13"
+                                    },
+                                    {
+                                        "Value": 100.0,
+                                        "Type": "14"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "15"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "16"
+                                    }
+                                ]
+                            }
+                        ],
+                        "GlobalStockSectorBreakdown": [
+                            {
+                                "NotClassified": 0.25694,
+                                "SalePosition": "L",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 31.136051,
+                                        "Type": "101"
+                                    },
+                                    {
+                                        "Value": 0.901516,
+                                        "Type": "102"
+                                    },
+                                    {
+                                        "Value": 42.428165,
+                                        "Type": "103"
+                                    },
+                                    {
+                                        "Value": 2.555496,
+                                        "Type": "104"
+                                    },
+                                    {
+                                        "Value": 0.660768,
+                                        "Type": "205"
+                                    },
+                                    {
+                                        "Value": 10.552042,
+                                        "Type": "308"
+                                    },
+                                    {
+                                        "Value": 10.268203,
+                                        "Type": "309"
+                                    },
+                                    {
+                                        "Value": 1.199572,
+                                        "Type": "310"
+                                    },
+                                    {
+                                        "Value": 0.298186,
+                                        "Type": "311"
+                                    }
+                                ]
+                            },
+                            {
+                                "NotClassified": 100.0,
+                                "SalePosition": "S",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "101"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "102"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "103"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "104"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "205"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "308"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "309"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "310"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "311"
+                                    }
+                                ]
+                            },
+                            {
+                                "NotClassified": 0.25694,
+                                "SalePosition": "N",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 31.136051,
+                                        "Type": "101"
+                                    },
+                                    {
+                                        "Value": 0.901516,
+                                        "Type": "102"
+                                    },
+                                    {
+                                        "Value": 42.428165,
+                                        "Type": "103"
+                                    },
+                                    {
+                                        "Value": 2.555496,
+                                        "Type": "104"
+                                    },
+                                    {
+                                        "Value": 0.660768,
+                                        "Type": "205"
+                                    },
+                                    {
+                                        "Value": 10.552042,
+                                        "Type": "308"
+                                    },
+                                    {
+                                        "Value": 10.268203,
+                                        "Type": "309"
+                                    },
+                                    {
+                                        "Value": 1.199572,
+                                        "Type": "310"
+                                    },
+                                    {
+                                        "Value": 0.298186,
+                                        "Type": "311"
+                                    }
+                                ]
+                            }
+                        ],
+                        "GlobalBondSectorBreakdownLevel1": [
+                            {
+                                "NotClassified": 99.85076,
+                                "SalePosition": "L",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 100.0,
+                                        "Type": "50"
+                                    }
+                                ]
+                            },
+                            {
+                                "NotClassified": 100.0,
+                                "SalePosition": "S",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "50"
+                                    }
+                                ]
+                            },
+                            {
+                                "NotClassified": 99.85076,
+                                "SalePosition": "N",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 100.0,
+                                        "Type": "50"
+                                    }
+                                ]
+                            }
+                        ],
+                        "GlobalBondSectorBreakdownLevel2": [
+                            {
+                                "NotClassified": 99.85076,
+                                "SalePosition": "L",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 100.0,
+                                        "Type": "5010"
+                                    }
+                                ]
+                            },
+                            {
+                                "NotClassified": 100.0,
+                                "SalePosition": "S",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "5010"
+                                    }
+                                ]
+                            },
+                            {
+                                "NotClassified": 99.85076,
+                                "SalePosition": "N",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 100.0,
+                                        "Type": "5010"
+                                    }
+                                ]
+                            }
+                        ],
+                        "GlobalBondSectorBreakdownLevel3": [
+                            {
+                                "NotClassified": 99.85076,
+                                "SalePosition": "L",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 100.0,
+                                        "Type": "501011"
+                                    }
+                                ]
+                            },
+                            {
+                                "NotClassified": 100.0,
+                                "SalePosition": "S",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "501011"
+                                    }
+                                ]
+                            },
+                            {
+                                "NotClassified": 99.85076,
+                                "SalePosition": "N",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 100.0,
+                                        "Type": "501011"
+                                    }
+                                ]
+                            }
+                        ],
+                        "EquityStatistics": {
+                            "ProspectiveBookValueYield": 2.52184,
+                            "ProspectiveRevenueYield": 3.29057,
+                            "ProspectiveCashFlowYield": 5.39168
+                        }
+                    }
+                ]
+            },
+            {
+                "Id": "FOUSA08MFZ",
+                "Type": "PrimaryBenchmark",
+                "Name": "S&P Saudi Arabia PR SAR",
+                "TrailingPerformance": [
+                    {
+                        "CurrencyId": "SAR",
+                        "Date": "2024-10-22T00:00:00",
+                        "Type": "DayEnd",
+                        "ReturnType": "GbPostTax",
+                        "Return": [
+                            {
+                                "Value": 516.65766,
+                                "Date": "2024-10-22T00:00:00",
+                                "TimePeriod": "ClosePrice"
+                            },
+                            {
+                                "Value": -1.248477,
+                                "Annualized": true,
+                                "Date": "2024-10-22T00:00:00",
+                                "TimePeriod": "M0"
+                            },
+                            {
+                                "Value": -1.391012,
+                                "Annualized": true,
+                                "Date": "2024-10-22T00:00:00",
+                                "TimePeriod": "M1"
+                            },
+                            {
+                                "Value": -1.589068,
+                                "Annualized": true,
+                                "Date": "2024-10-22T00:00:00",
+                                "TimePeriod": "M3"
+                            },
+                            {
+                                "Value": -3.284434,
+                                "Annualized": true,
+                                "Date": "2024-10-22T00:00:00",
+                                "TimePeriod": "M6"
+                            },
+                            {
+                                "Value": 14.59962,
+                                "Annualized": true,
+                                "Date": "2024-10-22T00:00:00",
+                                "TimePeriod": "M12"
+                            },
+                            {
+                                "Value": -1.491634,
+                                "Annualized": true,
+                                "Date": "2024-10-22T00:00:00",
+                                "TimePeriod": "M255"
+                            }
+                        ]
+                    },
+                    {
+                        "CurrencyId": "SAR",
+                        "Date": "2024-10-22T00:00:00",
+                        "Type": "DayEnd",
+                        "ReturnType": "ItPostTax",
+                        "Return": [
+                            {
+                                "Value": 516.65766,
+                                "Date": "2024-10-22T00:00:00",
+                                "TimePeriod": "ClosePrice"
+                            },
+                            {
+                                "Value": -1.248477,
+                                "Annualized": true,
+                                "Date": "2024-10-22T00:00:00",
+                                "TimePeriod": "M0"
+                            },
+                            {
+                                "Value": -1.391012,
+                                "Annualized": true,
+                                "Date": "2024-10-22T00:00:00",
+                                "TimePeriod": "M1"
+                            },
+                            {
+                                "Value": -1.589068,
+                                "Annualized": true,
+                                "Date": "2024-10-22T00:00:00",
+                                "TimePeriod": "M3"
+                            },
+                            {
+                                "Value": -3.284434,
+                                "Annualized": true,
+                                "Date": "2024-10-22T00:00:00",
+                                "TimePeriod": "M6"
+                            },
+                            {
+                                "Value": 14.59962,
+                                "Annualized": true,
+                                "Date": "2024-10-22T00:00:00",
+                                "TimePeriod": "M12"
+                            },
+                            {
+                                "Value": -1.491634,
+                                "Annualized": true,
+                                "Date": "2024-10-22T00:00:00",
+                                "TimePeriod": "M255"
+                            }
+                        ]
+                    }
+                ],
+                "HistoricalPerformanceSeries": [
+                    {
+                        "CurrencyId": "SAR",
+                        "StartDate": "2014-01-01T00:00:00",
+                        "Frequency": "Q",
+                        "TimePeriod": "M12",
+                        "ReturnType": "Nav",
+                        "Return": [
+                            {
+                                "Date": "2024-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2023-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2022-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2021-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2020-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2019-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2018-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2017-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2016-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2015-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2014-09-30T00:00:00"
+                            }
+                        ]
+                    },
+                    {
+                        "CurrencyId": "SAR",
+                        "StartDate": "2014-01-01T00:00:00",
+                        "Frequency": "Y",
+                        "TimePeriod": "M12",
+                        "ReturnType": "Nav",
+                        "Return": [
+                            {
+                                "Date": "2023-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2022-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2021-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2020-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2019-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2018-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2017-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2016-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2015-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2014-12-31T00:00:00"
+                            }
+                        ]
+                    },
+                    {
+                        "CurrencyId": "SAR",
+                        "StartDate": "2014-01-01T00:00:00",
+                        "Frequency": "Q",
+                        "TimePeriod": "M12",
+                        "ReturnType": "GbPostTax",
+                        "Return": [
+                            {
+                                "Value": 10.6976,
+                                "Date": "2024-09-30T00:00:00",
+                                "TimePeriod": "M12"
+                            },
+                            {
+                                "Value": -6.34844,
+                                "Date": "2023-09-30T00:00:00",
+                                "TimePeriod": "M12"
+                            },
+                            {
+                                "Date": "2022-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2021-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2020-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2019-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2018-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2017-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2016-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2015-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2014-09-30T00:00:00"
+                            }
+                        ]
+                    },
+                    {
+                        "CurrencyId": "SAR",
+                        "StartDate": "2014-01-01T00:00:00",
+                        "Frequency": "Y",
+                        "TimePeriod": "M12",
+                        "ReturnType": "GbPostTax",
+                        "Return": [
+                            {
+                                "Value": 12.08364,
+                                "Date": "2023-12-31T00:00:00",
+                                "TimePeriod": "M12"
+                            },
+                            {
+                                "Value": -9.08848,
+                                "Date": "2022-12-31T00:00:00",
+                                "TimePeriod": "M12"
+                            },
+                            {
+                                "Date": "2021-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2020-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2019-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2018-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2017-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2016-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2015-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2014-12-31T00:00:00"
+                            }
+                        ]
+                    },
+                    {
+                        "CurrencyId": "SAR",
+                        "StartDate": "2014-01-01T00:00:00",
+                        "Frequency": "Q",
+                        "TimePeriod": "M12",
+                        "ReturnType": "ItPostTax",
+                        "Return": [
+                            {
+                                "Value": 10.6976,
+                                "Date": "2024-09-30T00:00:00",
+                                "TimePeriod": "M12"
+                            },
+                            {
+                                "Value": -6.34844,
+                                "Date": "2023-09-30T00:00:00",
+                                "TimePeriod": "M12"
+                            },
+                            {
+                                "Date": "2022-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2021-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2020-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2019-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2018-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2017-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2016-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2015-09-30T00:00:00"
+                            },
+                            {
+                                "Date": "2014-09-30T00:00:00"
+                            }
+                        ]
+                    },
+                    {
+                        "CurrencyId": "SAR",
+                        "StartDate": "2014-01-01T00:00:00",
+                        "Frequency": "Y",
+                        "TimePeriod": "M12",
+                        "ReturnType": "ItPostTax",
+                        "Return": [
+                            {
+                                "Value": 12.08364,
+                                "Date": "2023-12-31T00:00:00",
+                                "TimePeriod": "M12"
+                            },
+                            {
+                                "Value": -9.08848,
+                                "Date": "2022-12-31T00:00:00",
+                                "TimePeriod": "M12"
+                            },
+                            {
+                                "Date": "2021-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2020-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2019-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2018-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2017-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2016-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2015-12-31T00:00:00"
+                            },
+                            {
+                                "Date": "2014-12-31T00:00:00"
+                            }
+                        ]
+                    }
+                ],
+                "Portfolios": [
+                    {
+                        "Date": "2024-09-30T00:00:00",
+                        "SuppressionExpiration": "9999-12-31T00:00:00",
+                        "ReleaseStatisticsDate": "2024-09-30T00:00:00",
+                        "ReleaseTopHoldingDate": "9999-12-31T00:00:00",
+                        "TopNcount": 0,
+                        "CurrencyId": "USD",
+                        "Id": 2156194,
+                        "AssetAllocations": [
+                            {
+                                "Type": "MorningstarEUR3",
+                                "SalePosition": "L",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 99.99997,
+                                        "Type": "1"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "2"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "3"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "4"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "99"
+                                    }
+                                ]
+                            },
+                            {
+                                "Type": "MorningstarEUR3",
+                                "SalePosition": "S",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "1"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "2"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "3"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "4"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "99"
+                                    }
+                                ]
+                            },
+                            {
+                                "Type": "MorningstarEUR3",
+                                "SalePosition": "N",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 99.99997,
+                                        "Type": "1"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "2"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "3"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "4"
+                                    },
+                                    {
+                                        "Value": 0.00003,
+                                        "Type": "99"
+                                    }
+                                ]
+                            }
+                        ],
+                        "RegionalExposure": [
+                            {
+                                "NotClassified": 0.00003,
+                                "SalePosition": "L",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "1"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "2"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "3"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "4"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "5"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "6"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "7"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "8"
+                                    },
+                                    {
+                                        "Value": 100.0,
+                                        "Type": "9"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "10"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "11"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "12"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "13"
+                                    },
+                                    {
+                                        "Value": 100.0,
+                                        "Type": "14"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "15"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "16"
+                                    }
+                                ]
+                            },
+                            {
+                                "NotClassified": 100.0,
+                                "SalePosition": "S",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "1"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "2"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "3"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "4"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "5"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "6"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "7"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "8"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "9"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "10"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "11"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "12"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "13"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "14"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "15"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "16"
+                                    }
+                                ]
+                            },
+                            {
+                                "NotClassified": 0.00003,
+                                "SalePosition": "N",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "1"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "2"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "3"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "4"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "5"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "6"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "7"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "8"
+                                    },
+                                    {
+                                        "Value": 100.0,
+                                        "Type": "9"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "10"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "11"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "12"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "13"
+                                    },
+                                    {
+                                        "Value": 100.0,
+                                        "Type": "14"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "15"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "16"
+                                    }
+                                ]
+                            }
+                        ],
+                        "GlobalStockSectorBreakdown": [
+                            {
+                                "NotClassified": 0.48882,
+                                "SalePosition": "L",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 14.513726,
+                                        "Type": "101"
+                                    },
+                                    {
+                                        "Value": 3.334942,
+                                        "Type": "102"
+                                    },
+                                    {
+                                        "Value": 41.484072,
+                                        "Type": "103"
+                                    },
+                                    {
+                                        "Value": 2.330753,
+                                        "Type": "104"
+                                    },
+                                    {
+                                        "Value": 3.981502,
+                                        "Type": "205"
+                                    },
+                                    {
+                                        "Value": 4.336799,
+                                        "Type": "206"
+                                    },
+                                    {
+                                        "Value": 6.590405,
+                                        "Type": "207"
+                                    },
+                                    {
+                                        "Value": 7.942314,
+                                        "Type": "308"
+                                    },
+                                    {
+                                        "Value": 9.745046,
+                                        "Type": "309"
+                                    },
+                                    {
+                                        "Value": 3.779083,
+                                        "Type": "310"
+                                    },
+                                    {
+                                        "Value": 1.961358,
+                                        "Type": "311"
+                                    }
+                                ]
+                            },
+                            {
+                                "NotClassified": 100.0,
+                                "SalePosition": "S",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "101"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "102"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "103"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "104"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "205"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "206"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "207"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "308"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "309"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "310"
+                                    },
+                                    {
+                                        "Value": 0.0,
+                                        "Type": "311"
+                                    }
+                                ]
+                            },
+                            {
+                                "NotClassified": 0.48882,
+                                "SalePosition": "N",
+                                "BreakdownValues": [
+                                    {
+                                        "Value": 14.513726,
+                                        "Type": "101"
+                                    },
+                                    {
+                                        "Value": 3.334942,
+                                        "Type": "102"
+                                    },
+                                    {
+                                        "Value": 41.484072,
+                                        "Type": "103"
+                                    },
+                                    {
+                                        "Value": 2.330753,
+                                        "Type": "104"
+                                    },
+                                    {
+                                        "Value": 3.981502,
+                                        "Type": "205"
+                                    },
+                                    {
+                                        "Value": 4.336799,
+                                        "Type": "206"
+                                    },
+                                    {
+                                        "Value": 6.590405,
+                                        "Type": "207"
+                                    },
+                                    {
+                                        "Value": 7.942314,
+                                        "Type": "308"
+                                    },
+                                    {
+                                        "Value": 9.745046,
+                                        "Type": "309"
+                                    },
+                                    {
+                                        "Value": 3.779083,
+                                        "Type": "310"
+                                    },
+                                    {
+                                        "Value": 1.961358,
+                                        "Type": "311"
+                                    }
+                                ]
+                            }
+                        ],
+                        "EquityStatistics": {
+                            "ProspectiveBookValueYield": 2.20385,
+                            "ProspectiveRevenueYield": 3.35386,
+                            "ProspectiveCashFlowYield": 13.75026
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

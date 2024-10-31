@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 import json
+import altair as alt
 
 # Set page configuration
 st.set_page_config(
@@ -72,7 +73,7 @@ st.dataframe(
     hide_index=True
 )
 
-# Display time series line charts for each metric
+# Display time series line charts for each metric with altair for better control over x-axis
 st.subheader("Time Series Charts")
 for i, metric in enumerate(data['Metric']):
     st.write(f"**{metric} Time Series**")
@@ -81,7 +82,16 @@ for i, metric in enumerate(data['Metric']):
         ts_data = data["Time Series"][i]
         ts_df = pd.DataFrame(ts_data, columns=["Date", metric])
         ts_df["Date"] = pd.to_datetime(ts_df["Date"])  # Convert Date to datetime format
-        ts_df.set_index("Date", inplace=True)  # Set Date as the index
-        st.line_chart(ts_df)  # Plot the line chart
+        
+        # Create an Altair line chart with formatted date axis
+        line_chart = alt.Chart(ts_df).mark_line().encode(
+            x=alt.X("Date:T", axis=alt.Axis(format="%B %Y", title="Timeline")),  # Month Year format
+            y=alt.Y(f"{metric}:Q", title="Value")
+        ).properties(
+            width=700,  # Adjust width for better layout
+            height=400
+        )
+        
+        st.altair_chart(line_chart, use_container_width=True)
     else:
         st.warning(f"No data available for {metric}.")
